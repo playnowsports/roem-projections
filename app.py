@@ -424,7 +424,7 @@ def render_home():
         format RŌEM proposes.
 
         **Structure.** Single-member Massachusetts LLC. Owner: Erin Nelson. 8+ years
-        business-analytics background (ex-Pearson Principal Business Analyst, Play Now
+        business-analytics background (Pearson Principal Business Analyst, Play Now
         founder, Peraton). BS Economics, University of Wyoming.
 
         **Operating hours.** 11 am – 10 pm, 7 days/week.
